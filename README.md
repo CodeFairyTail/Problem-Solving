@@ -10,7 +10,7 @@
   <ol>
     <li>Clone the repository: <code>git clone https://github.com/Rehab-Adel/Problem-Solving.git</code></li>
     <li>Navigate to the specific problem folder: <code>cd 112A-Petya-and-Strings.cpp</code></li>
-    <li>Open the solution file (e.g., `solution.cpp`) in your preferred C++ IDE or text editor.</li>
+    <li>Open the solution file in your preferred C++ IDE or text editor.</li>
     <li>Compile and run the code to see the solution in action.</li>
   </ol>
 
